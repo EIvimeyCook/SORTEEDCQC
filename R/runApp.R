@@ -3,7 +3,7 @@
 #' @return A .rtf of the DCQC review
 #' @export
 
-SORTEE.DCQC <- function() {
+SORTEEDCQC <- function() {
     shiny_env <- 1
     envir <- as.environment(shiny_env)
 
